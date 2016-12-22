@@ -2,7 +2,7 @@
 <html lang="zh-CN">
 <head>
 	<meta charset="UTF-8">
-	<title>Test Ajax</title>
+	<title>测试 jQuery Ajax</title>
 </head>
 <body>
 	<div class="login-form">
@@ -12,7 +12,7 @@
 			<button type="button" id="login-btn">Login</button>
 		</form>
 	</div>
-	<script src="http://apps.bdimg.com/libs/jquery/1.9.0/jquery.min.js"></script>
+	<script src="https://apps.bdimg.com/libs/jquery/1.9.0/jquery.min.js"></script>
 	<script>
 		$(function() {
 			// username: admin
