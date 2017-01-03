@@ -14,3 +14,4 @@ if($username == 'admin' && $password == 'admin') {
 	echo $result;
 }
 exit();
+http://www.cnblogs.com/tylerdonet/p/5001943.html
